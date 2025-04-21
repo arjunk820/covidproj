@@ -1,0 +1,12 @@
+# Research Question
+
+To what extent does demographic variables determine monthly death rates of
+COVID-19?
+
+## Initial Idea
+
+I believe we're going to implement PCA in order to see the results
+of the mathematical relationship between the deaths and demographic variables.
+
+In addition, some analysis of the data at the beginning and with the main
+variables considered.
